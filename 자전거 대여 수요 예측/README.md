@@ -27,7 +27,7 @@
 - 'season', 'weather' 피처의 경우 범주형 데이터로 이루어져있어 정확한 의미 파악이 힘들다. 시각화를 위해 의미가 잘 드러나도록 map() 함수를 사용하여 문자열로 변환한다.
   - 세 달씩 '월'을 묶으면 '계절'이 되므로, 지나친 세분화를 방지하기 위해 이후, season 피처만 남기고 month 피처는 제거해준다.
 <p align="center">
-  <img src="./image/FE_data.png">
+  <img src="./images/FE_data.png">
 </p>
 
 
