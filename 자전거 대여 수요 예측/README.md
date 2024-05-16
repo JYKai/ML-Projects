@@ -11,5 +11,6 @@
 
 **학습, 테스트 데이터 정보**
 
-![학습_테스트_정보](./images/train_test_info.png)
+<img src="./images/train_test_info.png" width="400" height="200"/>
+
 - DataFrame 각 열의 결측값이 몇 개인지, 데이터 타입은 무엇인지 info()함수를 사용하여 파악한다.
