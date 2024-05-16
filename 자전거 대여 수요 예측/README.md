@@ -10,7 +10,8 @@
 - 테스트 데이터에 casual과 registered 피처가 존재하지 않으므로 이후, 모델을 훈련할 때 해당 피처를 제외한다.
 
 **학습, 테스트 데이터 정보**
-
-<img src="./images/train_test_info.png" width="400" height="200"/>
+<p align="center">
+  <img src="./images/train_test_info.png" width="600" height="200"/>
+</p>
 
 - DataFrame 각 열의 결측값이 몇 개인지, 데이터 타입은 무엇인지 info()함수를 사용하여 파악한다.
