@@ -5,7 +5,7 @@
 ### 데이터 둘러보기
 **학습 및 테스트 데이터**
 <p align="center">
-  <img src=./images/train_test_data.pngwidth="600" height="200"/>
+  <img src=./images/train_test_data.png width="600" height="200"/>
 </p>
 
 
